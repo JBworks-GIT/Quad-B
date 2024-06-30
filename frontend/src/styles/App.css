@@ -1,0 +1,24 @@
+nav{
+  height: 13vh;
+  background-color: #191d28;
+  display: flex;
+  width: 100vw;
+}
+nav img{
+  margin-top: 20px;
+  height: 50px;
+  margin-left: 20px;
+}
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.btns{
+  margin-left: 40vw;
+  margin-top: -30px;
+  display: flex;
+}
+.btns button{
+  margin-left: 20px;
+}
